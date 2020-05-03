@@ -1,0 +1,19 @@
+overlord: crear mago no muerto, Overlord Lich nivel 100, min 200 turnos (su nivel aumenta con cada muerte que causa, resucita cada vez que muere a costa de niveles, nivel maximo 100, puede incrementarse el limite a costa de niveles,
+puede convertir en no muertos aquellos con nivel inferior al suyo, crea equipamiento encantado de calidad dependiente a su nivel usando niveles;
+el emperador supremo de todos los monstruos: puede reclamar trono de los monstruos a nivel 200, puede producir Deathknight nivel 40, Lich nivel 40, usando niveles puede crear Lich de nivel 90).
+
+ti: TITAN casi indestructible stats mas altas de todas las unidades para su nivel, devorar enemigos aumenta su nivel y HP, tiempo de produccion: min 1000 turnos,puede ser nombrado rey de todos los monstruos a nivel 100.
+
+m: crear clon controlable de monstruo comun, su nivel aumenta con el tiempo mas rapido que un monstruo cualquiera, tiempo de produccion: min 1 turno
+mm: monstruo con mortero y minas de baja calidad
+lmm: monstruo que pone minas anti-monstruo de letalidad casi segura
+bo: bombardero, bof: fabrica de bombarderos ,mi: misil,mif: fabrica de misiles
+nbf: fabrica de bombas nucleares , pu239: instalacion que convierte U238 en Pu239 (tarda en empezar a producir (muy importante))
+u233: instalacion que convierte Th232 en U233 (tarda mucho en producir a buen ritmo pero tiene mayor producion que las instalaciones de U235 y Pu239 cuando esta a pleno rendimiento)
+u235: instalacion separa el isotopo U235 (una vez esta funcionando empieza a producir)) 
+lief: instalacion que separa Li6 de Litio natural (aumenta potencia de bombas termonucleares y Stoika, no imprescindible)
+de: instalacion que separa Deuterio del Hidrogeno comun
+tri: convierte deuterio o litio en tritio (importante para aumentar eficiencia de bomba de fision nuclear)
+cef: fabrica de bombas convencionales y termobaricas (elevada produccion)
+resf: instalacion de investigacion nuclear (permite produccion de Stoika/layercake en 10 turnos, bomba termonuclear 2 estapas en 100 turnos, etapas indeterminadas en 800 turnos).
+ 
